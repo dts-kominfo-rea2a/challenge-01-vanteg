@@ -7,7 +7,7 @@ describe("users - color & restaurant", () => {
   });
   
   it("should have unique favorite restaurant attribute", async () => {    
-    expect(users[0].favoriteRestaurant.length).toBe(7);
+    expect(users[0].favoriteRestaurant.length).toBe(8);
     expect(users[1].favoriteRestaurant.length).toBe(8);
   });
 });
