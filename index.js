@@ -23,7 +23,7 @@ const secondUser = {
 }
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
-const users = [firstUser,secondUser];
+let users = [(firstUser),(secondUser)];
 
 // ! JANGAN MODIFIKASI LINE DI BAWAH
 function main() {
