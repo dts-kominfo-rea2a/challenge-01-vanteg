@@ -1,7 +1,7 @@
 // TODO: Buatlah data dari kedua user di sini
 // Tentukan tipe data dan struktur data yang menurut kalian tepat
 // Kalian bisa membuat variabel lain untuk dimasukkan ke dalam atribut user agar lebih mudah dibaca
-let favoriteColor1= new Set  ["Yellow", "Pink", "White", "Purple"];
+let favoriteColor1= ["Yellow", "Pink", "White", "Purple"];
 let favoriteRestaurant1= ['Bento', 'Sushi', 'Pancake', 'Eggy', 'Tempura', 'Bento', 'Eggy', 'Padang', 'Tteok', 'Sushi', 'Sushi'];
 let favoriteColor2=["Blue", "Black", "Grey"];
 let favoriteRestaurant2=["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"];
